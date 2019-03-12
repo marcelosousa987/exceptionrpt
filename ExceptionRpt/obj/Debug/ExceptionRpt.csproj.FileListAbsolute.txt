@@ -1,0 +1,13 @@
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\bin\Debug\ExceptionRpt.exe
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\bin\Debug\ExceptionRpt.pdb
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\bin\Debug\MetroFramework.Design.dll
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\bin\Debug\MetroFramework.dll
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.csprojAssemblyReference.cache
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.Properties.Resources.resources
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.csproj.GenerateResource.cache
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.csproj.CoreCompileInputs.cache
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.csproj.CopyComplete
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.exe
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.pdb
+C:\Users\sousam7\Desktop\Dev\ExceptionRpt\ExceptionRpt\obj\Debug\ExceptionRpt.reportPOMS.resources
